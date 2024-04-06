@@ -1,0 +1,8 @@
+622,624c622,624
+< /Users/XX/Desktop/jotai-react-native-reproducible/node_modules/jotai/index.js
+< /Users/XX/Desktop/jotai-react-native-reproducible/node_modules/jotai/vanilla.js
+< /Users/XX/Desktop/jotai-react-native-reproducible/node_modules/jotai/react.js
+---
+> /Users/XX/Desktop/jotai-react-native-reproducible/node_modules/jotai/esm/index.mjs
+> /Users/XX/Desktop/jotai-react-native-reproducible/node_modules/jotai/esm/vanilla.mjs
+> /Users/XX/Desktop/jotai-react-native-reproducible/node_modules/jotai/esm/react.mjs
